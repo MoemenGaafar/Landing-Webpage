@@ -6,7 +6,7 @@
 * [Description](#description)
 * [Prerequisite](#prerequisite)
 * [Installation](#installation)
-* [Runtime Environment](#runtime environment)
+* [Runtime Environment](#runtime_environment)
 
 ## Instructions
 

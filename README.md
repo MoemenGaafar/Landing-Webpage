@@ -3,10 +3,10 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Description]
-* [Prerequisite]
-* [Installation]
-* [Runtime Environment]
+* [Description](#description)
+* [Prerequisite](#prerequisite)
+* [Installation](#installation)
+* [Runtime Environment](#runtime environment)
 
 ## Instructions
 
